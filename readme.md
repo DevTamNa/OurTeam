@@ -18,7 +18,7 @@ __안녕하세요. `How we work` 팀입니다.__
 |강시혁|웹CTO 및 백엔드 개발|<img src="https://img.shields.io/badge/java-007396?style=for-the-btn&logo=java&logoColor=white">&nbsp;![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-btn&logo=spring&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-btn&logo=mysql&logoColor=white)|
 |신가경|앱CTO 및 IOS 개발|![SWIFT](https://img.shields.io/badge/swift%20-white.svg?style=flat-square&logo=Swift&logoColor=black)|
 
-## 💪각자의 강정과 향후 성장 목표
+## 💪각자의 강점과 향후 성장 목표
 
 ### 정다운(PM)
 
