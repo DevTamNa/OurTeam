@@ -16,7 +16,7 @@ __안녕하세요. `How we work` 팀입니다.__
 |:---:|:---:|:---:|
 |정다운|PM 및 프론트엔드 개발|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-btn&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-btn&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-btn&logo=javascript&logoColor=black)|
 |강시혁|웹CTO 및 백엔드 개발|<img src="https://img.shields.io/badge/java-007396?style=for-the-btn&logo=java&logoColor=white">&nbsp;![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-btn&logo=spring&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-btn&logo=mysql&logoColor=white)|
-|신가경|앱CTO 및 IOS 개발|![SWIFT](https://img.shields.io/badge/swift%20-white.svg?style=flat-square&logo=Swift&logoColor=black)|
+|신가경|앱CTO 및 IOS 개발|<img src="https://img.shields.io/badge/Swfit-FA7343?style=for-the-btn&logo=Swift&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/iOS-000000?style=for-the-btn&logo=Apple&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-btn&logo=Xcode&logoColor=white"/>|
 
 ## 💪각자의 강점과 향후 성장 목표
 
