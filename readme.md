@@ -2,7 +2,9 @@
 
 ![팀로고(main)](https://user-images.githubusercontent.com/79829085/152790831-a2184e81-b9e7-4aae-891c-aa33b8a96447.png)
 
-__안녕하세요. `How we work` 팀입니다.__ 
+### __안녕하세요. `How we work` 팀입니다.__ 
+
+### __우리는 웹/앱을 활용하여 사용자의 문제를 해결하기 위해 고민하는 팀입니다.__
 
 ## 🙋‍♂️ 팀원 소개
 
