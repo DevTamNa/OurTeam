@@ -49,7 +49,7 @@
 ### 신가경(CTO)
 
 * 집중 :
-`일이 끝 때까지 꾸준하게 작업합니다.`
+`일이 끝날 때까지 꾸준하게 작업합니다.`
 * 배움 :
 `항상 배움을 갖습니다.`
 
@@ -58,4 +58,4 @@
 ---
 
 
-<img src="https://user-images.githubusercontent.com/79829085/153732419-c5aa13af-c1f1-45f7-b3cf-22659b1c60eb.jpg" width="260px;" alt=""/>&nbsp;<img src="https://user-images.githubusercontent.com/79829085/153732136-aa66e932-c85d-40d9-bf39-03d2a42b3dc0.jpg" width="350px;" alt=""/>&nbsp;<img src="https://user-images.githubusercontent.com/79829085/153732319-668a3cb0-8287-4b1d-b001-ca7e7ad25716.jpg" width="350px;" alt=""/>
+<img src="https://user-images.githubusercontent.com/79829085/153732419-c5aa13af-c1f1-45f7-b3cf-22659b1c60eb.jpg" width="240px;" alt=""/>&nbsp;<img src="https://user-images.githubusercontent.com/79829085/153732136-aa66e932-c85d-40d9-bf39-03d2a42b3dc0.jpg" width="320px;" alt=""/>&nbsp;<img src="https://user-images.githubusercontent.com/79829085/153732319-668a3cb0-8287-4b1d-b001-ca7e7ad25716.jpg" width="320px;" alt=""/>
