@@ -1,10 +1,11 @@
 # How We Work !
 
-![팀로고(main)](https://user-images.githubusercontent.com/79829085/152790831-a2184e81-b9e7-4aae-891c-aa33b8a96447.png)
+<img src="https://user-images.githubusercontent.com/79829085/152790831-a2184e81-b9e7-4aae-891c-aa33b8a96447.png" alt=""/>
 
-### __안녕하세요. `How we work` 팀입니다.__ 
+### __안녕하세요. `How we work` 팀입니다!__
 
-### __우리는 웹/앱을 활용하여 사용자의 문제를 해결하기 위해 고민하는 팀입니다.__
+### __우리는 웹/앱을 활용하여 사용자의 문제를 해결하기 위해 끊임없이 고민하고 있습니다.__
+
 
 ## 🙋‍♂️ 팀원 소개
 
@@ -52,5 +53,9 @@
 * 배움 :
 `항상 배움을 갖습니다.`
 
-1. API와의 연결, 데이터 저장과 같은 서버와의 통신 기능을 구현
-2. UI, UX를 고려한 애플리케이션 화면 구성 방법 구현 및 개발 직군 협업 기초 쌓기
+1) API와의 연결, 데이터 저장과 같은 서버와의 통신 기능을 구현
+2) UI, UX를 고려한 애플리케이션 화면 구성 방법 구현 및 개발 직군 협업 기초 쌓기
+---
+
+
+<img src="https://user-images.githubusercontent.com/79829085/153732419-c5aa13af-c1f1-45f7-b3cf-22659b1c60eb.jpg" width="260px;" alt=""/>&nbsp;<img src="https://user-images.githubusercontent.com/79829085/153732136-aa66e932-c85d-40d9-bf39-03d2a42b3dc0.jpg" width="350px;" alt=""/>&nbsp;<img src="https://user-images.githubusercontent.com/79829085/153732319-668a3cb0-8287-4b1d-b001-ca7e7ad25716.jpg" width="350px;" alt=""/>
