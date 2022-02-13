@@ -13,8 +13,9 @@
 |👑 <br>[<img src="https://avatars.githubusercontent.com/u/94218285?v=4" width="220px;" alt=""/>](https://github.com/git-daun) | [<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="220px">](https://github.com/Si-Hyeak-KANG)|[<img src="https://avatars.githubusercontent.com/u/82161055?v=4" width="220px" >](https://github.com/happyduck-git) |
 |:---:|:---:|:---:|
 |[git-daun](https://github.com/git-daun) |[James Kang](https://github.com/Si-Hyeak-KANG) |[GG](https://github.com/happyduck-git)| 
-
 <br>
+저희는 제주 더큰내일센터의 `탐나는 인재 5기` 디지털 분야입니다.
+
 
 ## 🧩 역할과 활용 기술 스택
 |이름|역할|기술스택|
